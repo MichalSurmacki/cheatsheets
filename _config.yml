@@ -1,11 +1,5 @@
 theme: minima
 
-# Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
-
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 
