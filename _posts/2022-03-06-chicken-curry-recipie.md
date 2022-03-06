@@ -1,5 +1,5 @@
 ---
-title: "Github pages - notatki"
+title: "Kurczak Curry - przepis"
 date: 2022-03-06
 layout: post
 tags:
@@ -10,6 +10,6 @@ tags:
 
 sdasd
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+[x] Write the press release
+[ ] Update the website
+[ ] Contact the media
