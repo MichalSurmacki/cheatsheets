@@ -8,7 +8,7 @@ tags:
 
 # Wino truskawkowe 2022
 
-&emsp; Pierwsze wino truskawkowe domowej roboty. W tym roku po raz pierwszy bêdê nastawia³ wino truskawkowe. Celujê w delikatne wino owocowe pó³s³odkie (zawieraj¹ce ok. 50 g cukru w litrze - 5 *blg).
+&emsp; Pierwsze wino truskawkowe domowej roboty. W tym roku po raz pierwszy bÄ™dÄ™ nastawiaÅ‚ wino truskawkowe. CelujÄ™ w delikatne wino owocowe pÃ³Å‚sÅ‚odkie (zawierajÄ…ce ok. 50 g cukru w litrze - 5 *blg).
 
 
 <center style="padding: 5px">
@@ -16,34 +16,34 @@ tags:
 </center>
 
 
-&emsp; Aby uzyskaæ jeden procent alkoholu w litrze nastawu, dro¿d¿e musz¹ przerobiæ 17 g cukru. Posiadaj¹c 12 kg truskawek celujê w ok. 15 l wina owocowego. Aby osi¹gn¹æ poziom 13 % procent alkoholu w 15 l nastawie nale¿y dostarczyæ: 17 \[g\] x 13 \[%\] x 15 \[l\] = **3315 g cukru**. Po fermentacji takiej iloœci cukru wino truskawkowe bêdzie mia³o 13 % alkoholu i stanie siê wytrawne.
+&emsp; Aby uzyskaÄ‡ jeden procent alkoholu w litrze nastawu, droÅ¼dÅ¼e muszÄ… przerobiÄ‡ 17 g cukru. PosiadajÄ…c 12 kg truskawek celujÄ™ w ok. 15 l wina owocowego. Aby osiÄ…gnÄ…Ä‡ poziom 13 % procent alkoholu w 15 l nastawie naleÅ¼y dostarczyÄ‡: 17 \[g\] x 13 \[%\] x 15 \[l\] = **3315 g cukru**. Po fermentacji takiej iloÅ›ci cukru wino truskawkowe bÄ™dzie miaÅ‚o 13 % alkoholu i stanie siÄ™ wytrawne.
 
 ---
 <center>
-Wzór na obliczanie cukru dla znanej objêtoœci i poziomu alkoholou:
+WzÃ³r na obliczanie cukru dla znanej objÄ™toÅ›ci i poziomu alkoholou:
 
-17 x [docelowy poziom alkoholu w %] x [iloœæ wina w l] = [iloœæ cukru potrzebnego do fermentacji w g]
+17 x [docelowy poziom alkoholu w %] x [iloÅ›Ä‡ wina w l] = [iloÅ›Ä‡ cukru potrzebnego do fermentacji w g]
 </center>
 
 ---
 
-&emsp; Celem jest stworzenie wina owocowego pó³s³odkiego wiêc doliczam do ca³oœci dodatkowo po 50 g cukru na ka¿dy litr nastawu (50 \[g\] x 15 \[l\] = **750 g cukru**). W ca³oœci daje to liczbê **4065 g cukru** (3315 g + 750 g) potrzebnego do uzyskania 13 % i 5 *blg w gotowym winie truskawkowym.
+&emsp; Celem jest stworzenie wina owocowego pÃ³Å‚sÅ‚odkiego wiÄ™c doliczam do caÅ‚oÅ›ci dodatkowo po 50 g cukru na kaÅ¼dy litr nastawu (50 \[g\] x 15 \[l\] = **750 g cukru**). W caÅ‚oÅ›ci daje to liczbÄ™ **4065 g cukru** (3315 g + 750 g) potrzebnego do uzyskania 13 % i 5 *blg w gotowym winie truskawkowym.
 
-&emsp; Truskawki posiadaj¹ w sobie cukier (*w obliczeniach przyjmujê ¿e jest to ok. **45 g/kg***), który nale¿y odj¹æ od obliczonej puli. W przypadku fermentowania wczeœniej wyciœniêtych soków mo¿na okreœliæ za pomoc¹ balingometru iloœæ cukru w soku z owoców - w przypadku truskawki i moszczu, który bêdê fermentowa³ by³o to niemo¿liwe - zawiesiny owoców truskawki uniemo¿liwi³y pomiar zawartoœci cukru. Dla 12 kg owoców truskawki iloœæ cukru to: 1200 \[g\] x 0.45 \[g\] = **540 g**. Po odjêciu wartoœci cukrów zawartych w truskawkach od obliczonej wczeœniej ca³oœci otrzymujemy: **4065 g - 540 g = 3525 g**.
+&emsp; Truskawki posiadajÄ… w sobie cukier (*w obliczeniach przyjmujÄ™ Å¼e jest to ok. **45 g/kg***), ktÃ³ry naleÅ¼y odjÄ…Ä‡ od obliczonej puli. W przypadku fermentowania wczeÅ›niej wyciÅ›niÄ™tych sokÃ³w moÅ¼na okreÅ›liÄ‡ za pomocÄ… balingometru iloÅ›Ä‡ cukru w soku z owocÃ³w - w przypadku truskawki i moszczu, ktÃ³ry bÄ™dÄ™ fermentowaÅ‚ byÅ‚o to niemoÅ¼liwe - zawiesiny owocÃ³w truskawki uniemoÅ¼liwiÅ‚y pomiar zawartoÅ›ci cukru. Dla 12 kg owocÃ³w truskawki iloÅ›Ä‡ cukru to: 1200 \[g\] x 0.45 \[g\] = **540 g**. Po odjÄ™ciu wartoÅ›ci cukrÃ³w zawartych w truskawkach od obliczonej wczeÅ›niej caÅ‚oÅ›ci otrzymujemy: **4065 g - 540 g = 3525 g**.
 
 ---
 <center>
-Wzór na iloœæ cukru w truskawkach:
+WzÃ³r na iloÅ›Ä‡ cukru w truskawkach:
 
-0.45 x [iloœæ owoców w g] = [iloœæ cukru w truskawkach w g]
+0.45 x [iloÅ›Ä‡ owocÃ³w w g] = [iloÅ›Ä‡ cukru w truskawkach w g]
 </center>
-<sup>45 g/kg jest wartoœci¹ œredni¹ i przyjêt¹ w przybli¿eniu</sup>
+<sup>45 g/kg jest wartoÅ›ciÄ… Å›redniÄ… i przyjÄ™tÄ… w przybliÅ¼eniu</sup>
 
 ---
 
-&emsp; Nale¿y jednak pamiêtaæ, ¿e cukier równie¿ zajmuje miejsce i powiêksza objêtoœæ nastawu. Kilogram cukru zajmuje objêtoœæ 0.6 l - wiêc dodanie 3525 g cukru sprawi, ¿e nastaw powiêkszy siê o ok. 2 l (2,115 l). Otrzymamy zatem ok. 17 l wina owocowego. Obliczenia musz¹ zostaæ skorygowane.
+&emsp; NaleÅ¼y jednak pamiÄ™taÄ‡, Å¼e cukier rÃ³wnieÅ¼ zajmuje miejsce i powiÄ™ksza objÄ™toÅ›Ä‡ nastawu. Kilogram cukru zajmuje objÄ™toÅ›Ä‡ 0.6 l - wiÄ™c dodanie 3525 g cukru sprawi, Å¼e nastaw powiÄ™kszy siÄ™ o ok. 2 l (2,115 l). Otrzymamy zatem ok. 17 l wina owocowego. Obliczenia muszÄ… zostaÄ‡ skorygowane.
 
-Dodatkowo po odrzuceniu szczypu³ek od truskawek otrzymano 11,2 kg gotowych owoców, co równie¿ uwzglêdniono w nowych obliczeniach. 
+Dodatkowo po odrzuceniu szczypuÅ‚ek od truskawek otrzymano 11,2 kg gotowych owocÃ³w, co rÃ³wnieÅ¼ uwzglÄ™dniono w nowych obliczeniach. 
 
 ---
 
@@ -51,9 +51,9 @@ Dodatkowo po odrzuceniu szczypu³ek od truskawek otrzymano 11,2 kg gotowych owocó
 
 |   |   |
 |---|---|
-|Iloœæ cukru potrzebna do osi¹gniêcia 13% alkoholu w 13l (bez uwzglêdnienia cukru w owocach):| ***2873 g*** |
-|Iloœæ cukru w 11,2 kg truskawek:| ***504 g*** |
-|Iloœæ cukru potrzebna do osi¹gniêcia 13% alkoholu w 13l (z uwzglêdnieniem cukru w owocach): | ***2369 g*** |
+|IloÅ›Ä‡ cukru potrzebna do osiÄ…gniÄ™cia 13% alkoholu w 13l (bez uwzglÄ™dnienia cukru w owocach):| ***2873 g*** |
+|IloÅ›Ä‡ cukru w 11,2 kg truskawek:| ***504 g*** |
+|IloÅ›Ä‡ cukru potrzebna do osiÄ…gniÄ™cia 13% alkoholu w 13l (z uwzglÄ™dnieniem cukru w owocach): | ***2369 g*** |
 
 2369 * 0.6 + 13 = ***14.4214 l***
 
@@ -64,40 +64,40 @@ Dodatkowo po odrzuceniu szczypu³ek od truskawek otrzymano 11,2 kg gotowych owocó
 ---
 
 
-- dro¿d¿e: Enovini WS 13% (docelowy poziom alkoholu - 13%)
-- wino pó³s³odkie: zawartoœæ cukru w gotowym winie owocowym - ok. 50g/l (5*blg)
+- droÅ¼dÅ¼e: Enovini WS 13% (docelowy poziom alkoholu - 13%)
+- wino pÃ³Å‚sÅ‚odkie: zawartoÅ›Ä‡ cukru w gotowym winie owocowym - ok. 50g/l (5*blg)
 
 
 ## Momenty dodawania cukru
 
-- [x] 2022-06-13 &emsp; 1372 g &emsp; Pocz¹tkowy nastaw wina owocowego (I partia cukru)   
+- [x] 2022-06-13 &emsp; 1372 g &emsp; PoczÄ…tkowy nastaw wina owocowego (I partia cukru)   
 - [x] 2022-06-20 &emsp; 1215 g &emsp; II partia cukru
-- [x] 2022-07-04 &emsp; dos³odzenie I (415 g)
-- [x] 2022-07-11 &emsp; dos³odzenie II (1000 g)
+- [x] 2022-07-04 &emsp; dosÅ‚odzenie I (415 g)
+- [x] 2022-07-11 &emsp; dosÅ‚odzenie II (1000 g)
 
 ## Aktualizacje
 
-### 2022-07-09 Dodanie cukru + zlanie do balonów
-&emsp; Po fermentacji w sumie 3,5 kg cukru (dodany cukier + znajduj¹cy siê w owocach), balingomierz wskazuje 0 *blg. Wino nadal pracuje - najprawdopodobniej na dzikich dro¿d¿ach znajduj¹cych siê na owocach. Doda³em do nastawu 1 kg cukru. W przysz³oœci muszê zadabæ o wyeliminowanie dzikich dro¿d¿y z owoców poprzez wykorzystanie: sokownika (wysoka temperatura powinna zabiæ dro¿dze) lub innych œrodków. Wino zosta³o zlane do szklanych balonów. Wykona³em pomiar ph za pomoc¹ paska - pomiar wstaza³ 3.2 ph.
+### 2022-07-09 Dodanie cukru + zlanie do balonÃ³w
+&emsp; Po fermentacji w sumie 3,5 kg cukru (dodany cukier + znajdujÄ…cy siÄ™ w owocach), balingomierz wskazuje 0 *blg. Wino nadal pracuje - najprawdopodobniej na dzikich droÅ¼dÅ¼ach znajdujÄ…cych siÄ™ na owocach. DodaÅ‚em do nastawu 1 kg cukru. W przyszÅ‚oÅ›ci muszÄ™ zadabÄ‡ o wyeliminowanie dzikich droÅ¼dÅ¼y z owocÃ³w poprzez wykorzystanie: sokownika (wysoka temperatura powinna zabiÄ‡ droÅ¼dze) lub innych Å›rodkÃ³w. Wino zostaÅ‚o zlane do szklanych balonÃ³w. WykonaÅ‚em pomiar ph za pomocÄ… paska - pomiar wstazaÅ‚ 3.2 ph.
 
 ### 2022-07-02 Zlanie znad osadu + filtrowanie + dodanie cukru
-&emsp; Pozosta³oœci po niepe³nym przefiltrowaniu (kilka owoców/rozgniecionych owoców) zosta³y odfiltrowane, wykorzystano nowy mniejszy worek filtracyjny (3 l). Przelewano nastaw z wiadra fermentacyjnego (30 l) do innego identycznego wiadra fermetacyjnego. Przy okazji filtracji zlano wino znad osadu (osadu nie by³o du¿o). Przy przelewaniu, osad zosta³ naruszony - wzniós³ siê z dna i dosta³ do nastawu. Dodano 415g cukru w celu pierwszego lekkiego dos³odzenia. Iloœæ nastawu: ok. 14 l.
+&emsp; PozostaÅ‚oÅ›ci po niepeÅ‚nym przefiltrowaniu (kilka owocÃ³w/rozgniecionych owocÃ³w) zostaÅ‚y odfiltrowane, wykorzystano nowy mniejszy worek filtracyjny (3 l). Przelewano nastaw z wiadra fermentacyjnego (30 l) do innego identycznego wiadra fermetacyjnego. Przy okazji filtracji zlano wino znad osadu (osadu nie byÅ‚o duÅ¼o). Przy przelewaniu, osad zostaÅ‚ naruszony - wzniÃ³sÅ‚ siÄ™ z dna i dostaÅ‚ do nastawu. Dodano 415g cukru w celu pierwszego lekkiego dosÅ‚odzenia. IloÅ›Ä‡ nastawu: ok. 14 l.
 
-### 2022-06-20 Odrzucenie owoców
-&emsp; Owoce zosta³y odrzucone z nastawu. Po wyciœniêciu owoców w nastawie zosta³o ok. 14 l wina owocowego. Truskawki by³y bardzo trudne do wyciœniêcia - pêk³ worek filtracyjny oraz zosta³a uszkodzona prasa do owoców w³asnej roboty. Truskawki by³y nas¹czone ciecz¹, ale ich konsystencja nie pozwoli³a na dok³adne wyciœniêcie. W ramach eksperymentu przepuszczono odrzucone owoce przez sokowirówkê - jak produkt wyjœciowy otrzymano mus. Truskawki nale¿y filtrowaæ za pomoc¹ worków, owoce s¹ trudne do wyciœniêcia. Do nastawu dodano 1215 g cukru (II partia). Próbowano zmierzyæ poziom blg - balingomierz wskaza³ okolice 0*, jednak¿e mierzona próbka posiada³a zawiesiny (nastêpne zlanie znad osadu bêdzie wymagaæ ponownej filtracji). W smaku wyczuwalna kwasowoœæ - mo¿liwe, ¿e w nastêpnych pracach bêdzie potrzebne dodanie wody/cukru w celu obni¿enia kwasowoœci.
+### 2022-06-20 Odrzucenie owocÃ³w
+&emsp; Owoce zostaÅ‚y odrzucone z nastawu. Po wyciÅ›niÄ™ciu owocÃ³w w nastawie zostaÅ‚o ok. 14 l wina owocowego. Truskawki byÅ‚y bardzo trudne do wyciÅ›niÄ™cia - pÄ™kÅ‚ worek filtracyjny oraz zostaÅ‚a uszkodzona prasa do owocÃ³w wÅ‚asnej roboty. Truskawki byÅ‚y nasÄ…czone cieczÄ…, ale ich konsystencja nie pozwoliÅ‚a na dokÅ‚adne wyciÅ›niÄ™cie. W ramach eksperymentu przepuszczono odrzucone owoce przez sokowirÃ³wkÄ™ - jak produkt wyjÅ›ciowy otrzymano mus. Truskawki naleÅ¼y filtrowaÄ‡ za pomocÄ… workÃ³w, owoce sÄ… trudne do wyciÅ›niÄ™cia. Do nastawu dodano 1215 g cukru (II partia). PrÃ³bowano zmierzyÄ‡ poziom blg - balingomierz wskazaÅ‚ okolice 0*, jednakÅ¼e mierzona prÃ³bka posiadaÅ‚a zawiesiny (nastÄ™pne zlanie znad osadu bÄ™dzie wymagaÄ‡ ponownej filtracji). W smaku wyczuwalna kwasowoÅ›Ä‡ - moÅ¼liwe, Å¼e w nastÄ™pnych pracach bÄ™dzie potrzebne dodanie wody/cukru w celu obniÅ¼enia kwasowoÅ›ci.
 
 ### od 2022-06-13 do 2022-06-20 Mieszkanie
 
-&emsp; Codziennie mieszano owoce za pomoc¹ ³opatki, tak aby nie mia³y d³u¿szego kontaktu z poduszk¹ powietrzn¹ utworzon¹ w wiadrze filtracyjnym. 
+&emsp; Codziennie mieszano owoce za pomocÄ… Å‚opatki, tak aby nie miaÅ‚y dÅ‚uÅ¼szego kontaktu z poduszkÄ… powietrznÄ… utworzonÄ… w wiadrze filtracyjnym. 
 
-### 2022-06-13 Pocz¹tkowy nastaw wina truskawkowego
-&emsp; Po odrzuceniu szczypu³ek z owoców, zosta³o 11,2 kg. owoców. Wino zosta³o nastawione z 11,2 kg. moszczu truskawkowego. <br> 
+### 2022-06-13 PoczÄ…tkowy nastaw wina truskawkowego
+&emsp; Po odrzuceniu szczypuÅ‚ek z owocÃ³w, zostaÅ‚o 11,2 kg. owocÃ³w. Wino zostaÅ‚o nastawione z 11,2 kg. moszczu truskawkowego. <br> 
 W nastawie umieszczono:
-- uwodnione dro¿d¿e, 
-- po¿ywkê do dro¿d¿y z wit. B, 
-- 6 l wody Ÿródlanej, 
+- uwodnione droÅ¼dÅ¼e, 
+- poÅ¼ywkÄ™ do droÅ¼dÅ¼y z wit. B, 
+- 6 l wody ÅºrÃ³dlanej, 
 - 1372 g cukru (I partia),
-- sok wyciœniêty z po³owy cytryny. 
+- sok wyciÅ›niÄ™ty z poÅ‚owy cytryny. 
 
 Nastaw umieszczono w wiadrze fermentacyjnym.
 
@@ -105,16 +105,16 @@ Nastaw umieszczono w wiadrze fermentacyjnym.
 
 ## Cennik (2022)
 
-| Produkt   | Iloœæ | Cena |
+| Produkt   | IloÅ›Ä‡ | Cena |
 |-----------|-------|------|
-| Truskawki | 12 kg. |   109 z³  |
-| Cukier    |  4 kg.     |     13.96 z³ |
-| Dro¿d¿e Enovini WS 13% |   1 op.    |   ok. 5 z³   |
-| Po¿ywka do dro¿d¿y z wit. B1          |   1 op.    |  ok. 4 z³    |
-|  Woda Ÿródlana        |   10 l    |  ok. 6 z³    |
-| Nowy worek filtracyjny          | 1 szt.     |   ok. 30 z³   |
-| Inne          | -     |   ok. 10 z³   |
-| SUMA:     |       |  177,96 z³    |
+| Truskawki | 12 kg. |   109 zÅ‚  |
+| Cukier    |  4 kg.     |     13.96 zÅ‚ |
+| DroÅ¼dÅ¼e Enovini WS 13% |   1 op.    |   ok. 5 zÅ‚   |
+| PoÅ¼ywka do droÅ¼dÅ¼y z wit. B1          |   1 op.    |  ok. 4 zÅ‚    |
+|  Woda ÅºrÃ³dlana        |   10 l    |  ok. 6 zÅ‚    |
+| Nowy worek filtracyjny          | 1 szt.     |   ok. 30 zÅ‚   |
+| Inne          | -     |   ok. 10 zÅ‚   |
+| SUMA:     |       |  177,96 zÅ‚    |
 
-### ród³a:
+### Å¹rÃ³dÅ‚a:
 

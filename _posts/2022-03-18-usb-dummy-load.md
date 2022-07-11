@@ -1,5 +1,5 @@
 ---
-title: "Sztuczne obci¹¿enie USB"
+title: "Sztuczne obciÄ…Å¼enie USB"
 date: 2022-03-18
 layout: post
 ---
@@ -14,10 +14,10 @@ Hello World
 
 # Rezystory
 
-## Po³¹czenie szeregowe
+## PoÅ‚Ä…czenie szeregowe
 
 ### Lista
 
 - [] dasda
 
-## Po³¹czenie równoleg³e
+## PoÅ‚Ä…czenie rÃ³wnolegÅ‚e
