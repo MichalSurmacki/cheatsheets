@@ -1,6 +1,6 @@
 ---
 title: "Wino truskawkowe 2022"
-date: 2022-06-11
+date: 2022-06-13
 layout: post
 tags:
     - wine
