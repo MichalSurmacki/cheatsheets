@@ -12,7 +12,7 @@ tags:
 
 
 <center style="padding: 5px">
-<button name="button" href="#start" class="btn btn-{{include.button_class}} active">Click me</button>
+<a href="#start" class="button">Default Button</a>
 </center>
 
 
